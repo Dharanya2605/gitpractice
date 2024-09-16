@@ -1,2 +1,4 @@
 Just created the github account this is the first time I am writing in git.
 Created text1.txt file
+
+Now I am practising to make changes in the git
